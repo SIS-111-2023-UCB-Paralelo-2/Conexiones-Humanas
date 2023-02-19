@@ -1,5 +1,4 @@
 [![tailorbrands.jpg](https://i.postimg.cc/1RW35zFk/tailorbrands.jpg)](https://postimg.cc/kDbmTqfs)
-Equipo Interpersonal
 ### <div align="center">"Conexiones Humanas"    
   
   <div align="center">👨‍💻 Programando soluciones humanas 🚀
@@ -14,6 +13,7 @@ Equipo Interpersonal
 
 - ⚡ Aplicación para ayudar a personas con problemas de ansiedad mediante seguimientos, recomendaciones, meditación e información acerca de la ansiedad  
   
+Equipo Interpersonal
 
 <br/>  
 
