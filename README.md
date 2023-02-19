@@ -1,7 +1,7 @@
 # Conexiones-Humanas
 Equipo Interpersonal
 ### <div align="center">"Conexiones Humanas"                   
-             👨‍💻 Programando soluciones humanas 🚀</div>  
+             👨‍💻 Programando soluciones humanas 🚀
   
 
 
