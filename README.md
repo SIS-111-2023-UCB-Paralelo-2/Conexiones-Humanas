@@ -1,5 +1,4 @@
 [![tailorbrands.jpg](https://i.postimg.cc/1RW35zFk/tailorbrands.jpg)](https://postimg.cc/kDbmTqfs)
-# Conexiones-Humanas
 Equipo Interpersonal
 ### <div align="center">"Conexiones Humanas"    
   
