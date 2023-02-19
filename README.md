@@ -20,6 +20,8 @@
 Equipo Interpersonal
 
     Logo oficial del equipo:
+    
     src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://postimg.cc/y3m6tHXD) 
+    
 <br/>  
 
