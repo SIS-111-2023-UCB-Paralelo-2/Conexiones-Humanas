@@ -22,7 +22,7 @@ Equipo Interpersonal
     Integrantes y logo del equipo:
     
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LeandroJess)  [<img
-                                                                                                                                                src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LeandroJess)  [<img 
+                                                                                                                                                src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SusannBaldiviezo)  [<img 
                                                                                                                                                 src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LeandroJess)  [<img 
                                                                                                                                                  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LeandroJess)  [<img 
 src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://postimg.cc/y3m6tHXD)                                                                                                                                                
