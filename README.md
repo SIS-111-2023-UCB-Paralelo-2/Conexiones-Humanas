@@ -1,9 +1,9 @@
 # Conexiones-Humanas
 Equipo Interpersonal
-### <div align="center">"Conexiones Humanas"                   
-             👨‍💻 Programando soluciones humanas 🚀
+### <div align="center">"Conexiones Humanas"    
   
-
+  <div align="center">👨‍💻 Programando soluciones humanas 🚀
+            
 
 
 ### "La creación de software puede ser una herramienta poderosa para impulsar el desarrollo social. Aquí se presentan algunas ideas para lograrlo."  
