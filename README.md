@@ -19,5 +19,7 @@
     El propósito del equipo es fomentar la creatividad y la colaboración para diseñar y desarrollar software de calidad que proporcione soluciones a los problemas de la vida diaria. A través del uso de sus habilidades y conocimientos en programación, el equipo busca mejorar la calidad de vida de las personas y ayudar a simplificar tareas cotidianas. Además, el equipo se compromete a trabajar de manera ética, transparente y en línea con las mejores prácticas y enseñanzas que nos da la UCB Tarija.
 Equipo Interpersonal
 
+    Logo oficial del equipo:
+    src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://postimg.cc/y3m6tHXD) 
 <br/>  
 
